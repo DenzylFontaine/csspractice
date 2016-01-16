@@ -23,5 +23,5 @@ h2 {
 	position: fixed;
 	border: double darkgreen;
 	float: right;
-	rba(silver 0.5);
+	background: silver;
 }
