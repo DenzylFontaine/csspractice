@@ -1,7 +1,7 @@
 .pic {
 	height: 375px;
 	width:  375px;
-	margin: 0 45px;
+	padding-left: 45px;
 	border: 5px solid darkgreen;
 	align-content: center;
 }
