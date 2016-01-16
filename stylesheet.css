@@ -6,15 +6,15 @@
 }
 
 html {
-	background: lightsteelblue;
+	background: firebrick;
 }
 
 .bdr-crm {
-	border: 5px solid darkseagreen;
+	border: 5px solid darkgoldenrod;
 	margin-right: 67%;
 	font-family: "Apple Chancery";
 	background: black;
-	color: aqua;
+	color: indianred;
 }
 
 h2 {
