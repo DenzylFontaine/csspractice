@@ -1,8 +1,9 @@
 .pic {
 	height: 375px;
 	width:  375px;
-	margin: 0px 45px;
+	margin: 0 45px;
 	border: 5px solid darkgreen;
+	align-content: center;
 }
 
 html {
