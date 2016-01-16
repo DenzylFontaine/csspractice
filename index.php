@@ -9,8 +9,8 @@
 		<header class="head">
 			<h1>Distracions</h1>
 			<p>who's beefing?<br/>
-			New break-ups!
-			Photos Photos Photos!
+			New break-ups!<br/>
+			Photos Photos Photos!<br/>
 			</p>
 		</header>
 		<h2>Music of this Generation</h2>

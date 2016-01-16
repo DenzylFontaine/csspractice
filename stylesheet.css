@@ -22,4 +22,5 @@ h2 {
 .head {
 	position: fixed;
 	border: double darkgreen;
+	float: right;
 }
