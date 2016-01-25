@@ -14,9 +14,9 @@
 			</p>
 		</header>
 		<h2>Music of this Generation</h2>
-		<img class="pic" src="https://upload.wikimedia.org/wikipedia/commons/d/de/Sunset_Party_Dancing_Girl_Silhouette"
+		<img class="pic" src="https://upload.wikimedia.org/wikipedia/commons/d/de/Sunset_Party_Dancing_Girl_Silhouette.jpg"
 		<br/>
-		<img class="pic2" src="http://zone1.aqusagtechnologi.netdna-cdn.com/wp-content/uploads/2015/09/dance1" />
+		<img class="pic2" src="http://zone1.aqusagtechnologi.netdna-cdn.com/wp-content/uploads/2015/09/dance1.jpg" />
 		<div class="bdr-crm id=paragraph-1">
 		<p>There's always some great music out there, just gotta know where to look.<br>
 			Sorry rock fans but yes im a hater, just sounds like screaming to me.<br/>
