@@ -18,7 +18,7 @@ html {
 
 .bdr-crm {
 	border: 5px dashed black;
-	margin-right: 67%;
+	margin-left: 50%;
 	font-family: "Apple Chancery";
 	background: rgb(131,180,229);
 }
@@ -27,9 +27,6 @@ h2 {
 	text-align: center;
 }
 
-p {
-	text-align: center;
-}
 
 .head {
 	position: fixed;
