@@ -30,5 +30,5 @@ h2 {
 	position: fixed;
 	border: double darkgreen;
 	background: silver;
-	fill-opacity: 0.75;
+	solid-opacity: 0.75;
 }
