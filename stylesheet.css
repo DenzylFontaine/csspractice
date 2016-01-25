@@ -28,7 +28,8 @@ h2 {
 
 .head {
 	position: fixed;
-	border: double darkgreen;
+	border: double black;
 	background: silver;
-	color: ;
+	color: darkred;
+	border-radius: 20px;
 }
