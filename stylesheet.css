@@ -23,7 +23,11 @@ html {
 	background: rgb(131,180,229);
 }
 
-h2, p {
+h2 {
+	text-align: center;
+}
+
+p {
 	text-align: center;
 }
 
