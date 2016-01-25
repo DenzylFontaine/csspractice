@@ -30,7 +30,7 @@ h2 {
 .head {
 	position: fixed;
 	border: double black;
-	background: black;
+	background: darkgrey;
 	color: darkred;
 	border-radius: 20px;
 }
