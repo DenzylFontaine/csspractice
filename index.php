@@ -27,5 +27,20 @@
 			Kendrick for president 2024! You heard it here first! ;)
 		</p>
 		</div>
+		<h3>Genres</h3>
+		<p>
+			<ul>
+			<li>Classic Rock</li>
+			<li>Rock and Roll</li>
+			<li>Heavy Metal</li>
+			<li>Rap</li>
+			<li>R&B</li>
+			<li>Country</li>
+			<li>Techno</li>
+			<li>Trance</li>
+			<li>Classical</li>
+			<li>Folk Song</li>
+		</ul>
+		</p>
 	</body>
 </html>
