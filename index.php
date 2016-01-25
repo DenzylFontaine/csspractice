@@ -14,7 +14,7 @@
 			</p>
 		</header>
 		<h2>Music of this Generation</h2>
-		<img class="pic" src="https://slm-assets2.secondlife.com/assets/4730505/lightbox/MaleDancerSilhouette.jpg?1323414439"
+		<img class="pic" src="https://upload.wikimedia.org/wikipedia/commons/d/de/Sunset_Party_Dancing_Girl_Silhouette"
 		<br/>
 		<img class="pic2" src="http://zone1.aqusagtechnologi.netdna-cdn.com/wp-content/uploads/2015/09/dance1" />
 		<div class="bdr-crm id=paragraph-1">
