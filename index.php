@@ -16,7 +16,7 @@
 		<h2>Music of this Generation</h2>
 		<img class="pic" src="https://slm-assets2.secondlife.com/assets/4730505/lightbox/MaleDancerSilhouette.jpg?1323414439"
 		<br/>
-		<img class="pic2" src="http://img.memecdn.com/walk-into-the-club_o_1497591.jpg" />
+		<img class="pic2" src="http://zone1.aqusagtechnologi.netdna-cdn.com/wp-content/uploads/2015/09/dance1" />
 		<div class="bdr-crm id=paragraph-1">
 		<p>There's always some great music out there, just gotta know where to look.<br>
 			Sorry rock fans but yes im a hater, just sounds like screaming to me.<br/>
