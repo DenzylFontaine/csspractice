@@ -7,7 +7,7 @@
 	</head>
 	<body>
 		<header class="head">
-			<h1>Distracions</h1>
+			<h1 class="h1">Distractions</h1>
 			<p>who's beefing?<br/>
 			New break-ups!<br/>
 			Photos Photos Photos!<br/>
