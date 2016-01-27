@@ -35,7 +35,7 @@
 		<div class="container">
 			<div class="row" >
 				<div class="row">
-					<h1>RPG</h1>
+					<h1>Testing Testing</h1>
 				</div>
 			</div>
 			<div class="col-md-4">
