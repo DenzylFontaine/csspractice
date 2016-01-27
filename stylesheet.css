@@ -1,40 +1,4 @@
-.pic {
-	height: 375px;
-	width:  425px;
-	border-radius: 5px;
-	float: left;
-	margin-right:25px;
-}
-
-.pic2 {
-	height: 375px;
-	width:  425px;
-	border-radius: 5px;
-	float: right;
-}
-
-html {
-	background: rgb(216,217,229);
-}
-
-.bdr-crm {
-	font-family: "Apple Chancery";
-	text-align: left;
-}
-
-h2 {
-	text-align: center;
-}
-
-
-.head {
-	position: fixed;
-	border: double black;
-	background: darkgrey;
-	color: darkred;
-	border-radius: 20px;
-}
-
 h1 {
-	color: firebrick;
+	font-family: Comic Sans;
 }
+
